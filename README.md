@@ -12,8 +12,8 @@ ScreenShots
 
 Below are some screenshots and a demo of the game in action.
 
-![Game Screenshot 1](https://github.com/user-attachments/assets/174de534-1b37-44be-a792-f4a089244b30 =200x200)
-![Game Screenshot 2](https://github.com/user-attachments/assets/2c810198-cd23-4e60-84f8-3e75ae5b49cf =200x200)
+<img src="https://github.com/user-attachments/assets/174de534-1b37-44be-a792-f4a089244b30" width="200" />
+<img src="https://github.com/user-attachments/assets/2c810198-cd23-4e60-84f8-3e75ae5b49cf" width="200" />
 
 
 
