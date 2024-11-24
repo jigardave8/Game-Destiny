@@ -5,7 +5,7 @@
 This game combines suspense, thrills, and a rich narrative where every decision matters. 
 Your choices will affect the fate of the protagonist and the balance of the world, culminating in a series of unique endings.
 
-With 50 acts, each containing 6 decisions, you’ll experience a deeply engaging and ever-evolving story. Will you face the horrors head-on or shy away? Can you survive the terror lurking around every corner? The journey is yours to shape.
+With 50 acts, each containing 3 decisions, you’ll experience a deeply engaging and ever-evolving story. Will you face the horrors head-on or shy away? Can you survive the terror lurking around every corner? The journey is yours to shape.
 
 ---
 ScreenShots
@@ -28,7 +28,7 @@ Below are some screenshots and a demo of the game in action.
 
 ## Gameplay
 
-The game is structured into **30 acts**. Each act offers you **6 unique decisions** that will influence the game's progression. Your decisions shape the world and lead you to different possible endings. The choices are visually represented with options, and your actions will trigger animations to enhance the immersive experience.
+The game is structured into **50 acts**. Each act offers you **6 unique decisions** that will influence the game's progression. Your decisions shape the world and lead you to different possible endings. The choices are visually represented with options, and your actions will trigger animations to enhance the immersive experience.
 
 ### Example Choices:
 
